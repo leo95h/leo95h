@@ -1,4 +1,4 @@
-### 🚀 Languages and Tools:</summary>
+### 🚀 Languages:</summary>
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
@@ -15,7 +15,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle"/></code>
+<img width="25" height="25" src="http://cdn.onlinewebfonts.com/svg/img_248288.png" alt="Oracle"/></code>
 </p>
 
 ### 🚀 Tools:</summary>
