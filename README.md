@@ -1,6 +1,6 @@
 ### 🚀 Languages:</summary>
 <p align="left">
-<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></code>
+<img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
