@@ -1,25 +1,31 @@
 ### 🚀 Languages and Tools:</summary>
-
 <p align="left">
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
+</p>
+
+### 🚀 Databases:</summary>
+<p align="left">
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL"/></code>
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle"/></code>
+</p>
+
+### 🚀 Tools:</summary>
+<p align="left">
+<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Apache Maven" /></code>
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT">
 <img height="25" src="https://raw.githubusercontent.com/leo95h/leo95h/main/svg_logos/docker_logo.svg" alt="Docker" />
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal">
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" /></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Apache Maven" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://github.com/leo95h/leo95h/blob/main/svg_logos/amazon_aws-icon.png" alt="Amazon AWS" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle"/></code>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT">
 </p>
-
 #
 
 ### ⚡ Github Stats</b></summary>
