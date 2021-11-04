@@ -6,6 +6,7 @@
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"  />
 <img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="Delphi"  />
+<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python"  />
 <img width="25" height="25" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFws13ZULBWvw/company-logo_200_200/0/1593265734516?e=2159024400&v=beta&t=H-bLeeqgk21gOY5aAxvPZ5ShtOz1e5z9IT1sz2yjdSg" alt="Uniface"  />
 </p>
 
@@ -28,7 +29,6 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" /></code>
 <img width="25" height="25" src="https://github.com/leo95h/leo95h/blob/main/svg_logos/amazon_aws-icon.png" alt="Amazon AWS" /></code>
 </p>
-#
 
 ### ⚡ Github Stats</b></summary>
 <div align="left">
