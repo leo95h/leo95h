@@ -27,7 +27,7 @@
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" title="Terminal" />
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="Swagger - Open API" title="Swagger" /></code>
+<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger - Open API" title="Swagger" /></code>
 <img width="25" height="25" src="https://github.com/leo95h/leo95h/blob/main/svg_logos/amazon_aws-icon.png" alt="Amazon AWS" title="Amazon AWS" /></code>
 </p>
 
