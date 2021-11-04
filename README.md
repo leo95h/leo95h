@@ -4,8 +4,9 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
-<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="javascript"  />
+<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"  />
+<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="Delphi"  />
+<img width="25" height="25" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFws13ZULBWvw/company-logo_200_200/0/1593265734516?e=2159024400&v=beta&t=H-bLeeqgk21gOY5aAxvPZ5ShtOz1e5z9IT1sz2yjdSg" alt="Uniface"  />
 </p>
 
 ### 🚀 Databases:</summary>
