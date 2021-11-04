@@ -5,6 +5,7 @@
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" />
 <img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
+<img width="25" height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Delphi_Language_Logo.png" alt="javascript"  />
 </p>
 
 ### 🚀 Databases:</summary>
